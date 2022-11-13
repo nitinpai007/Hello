@@ -1,5 +1,5 @@
-### Hi there 👋
-
+#### Hi there 
+<a rel="me" href="https://mastodon.social/@nitin">Follow me on Mastodon</a>
 <!--
 **nitinpai007/nitinpai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
